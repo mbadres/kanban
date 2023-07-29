@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kanban-bd21b": {
+      "hosting": {
+        "kanban": [
+          "kanban-bd21b"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kanban-bd21b"
+  }
+}
